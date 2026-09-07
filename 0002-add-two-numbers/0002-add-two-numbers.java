@@ -39,9 +39,9 @@ class Solution {
             l3 = l3.next;
         }
         
-        if(carry>0){
-            ListNode Carrry=new ListNode(carry);
-            l3.next=Carrry;
+    if(carry>0){
+            ListNode carrry=new ListNode(carry);
+            l3.next=carrry;
         
         }
         return temp.next;

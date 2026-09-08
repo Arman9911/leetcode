@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Arman9911/leetcode/tree/master/0014-longest-common-prefix) |
 | [0053-maximum-subarray](https://github.com/Arman9911/leetcode/tree/master/0053-maximum-subarray) |
+| [0078-subsets](https://github.com/Arman9911/leetcode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Arman9911/leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Arman9911/leetcode/tree/master/0169-majority-element) |
 | [0704-binary-search](https://github.com/Arman9911/leetcode/tree/master/0704-binary-search) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Arman9911/leetcode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Arman9911/leetcode/tree/master/0136-single-number) |
 ## Math
 |  |
@@ -70,4 +72,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Arman9911/leetcode/tree/master/0002-add-two-numbers) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Arman9911/leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->

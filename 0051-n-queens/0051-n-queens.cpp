@@ -1,6 +1,6 @@
 class Solution {
 public:
-    bool isSafe(vector<string> &board,int row,int col,int n){
+    bool isSafe(vector<string> &board,int row,int col,int n){ //O(n)
         //horizontol
         for(int j=0;j<n;j++){
             if(board[row][j]=='Q'){

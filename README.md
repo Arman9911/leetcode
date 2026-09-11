@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Arman9911/leetcode/tree/master/0014-longest-common-prefix) |
+| [0037-sudoku-solver](https://github.com/Arman9911/leetcode/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/Arman9911/leetcode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Arman9911/leetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Arman9911/leetcode/tree/master/0053-maximum-subarray) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Arman9911/leetcode/tree/master/0013-roman-to-integer) |
+| [0037-sudoku-solver](https://github.com/Arman9911/leetcode/tree/master/0037-sudoku-solver) |
 | [0169-majority-element](https://github.com/Arman9911/leetcode/tree/master/0169-majority-element) |
 ## Sorting
 |  |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Arman9911/leetcode/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/Arman9911/leetcode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Arman9911/leetcode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Arman9911/leetcode/tree/master/0078-subsets) |
@@ -86,5 +89,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Algorithm X
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Arman9911/leetcode/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/Arman9911/leetcode/tree/master/0051-n-queens) |
+## Matrix
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Arman9911/leetcode/tree/master/0037-sudoku-solver) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Arman9911/leetcode/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
